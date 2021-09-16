@@ -69,7 +69,7 @@ run the emulator in a mode that will use a dataset of combined CHIRTS temperatur
   
 In either case, you'll also need to input the latitude and longitude coordinates of the area you're interested (can be 
 anywhere across the globe as long as it's not over the ocean), and the year of climate data for which you're interested in 
-emulating yield anomalies (if you're using CHIRTS/CHIRPS data).   
+emulating yield anomalies (if you're using CHIRTS/CHIRPS data, which can be between 1983 and 2016).   
   
 The scripts in this repository work as follows:  
   
