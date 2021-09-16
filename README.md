@@ -65,11 +65,11 @@ and the list of coefficients (and climate input data if needed, see below).
   
 To run, you will also need climate input data. This must be on a daily scale for a full year, one vector for each maximum
 temperature, minimum temperature, and precipitation variables. If you don't have a particular set of climate data, you can 
-run the emulator in a mode that will use a dataset of combined NASA POWER temperature and CHIRPS precipitation.  
+run the emulator in a mode that will use a dataset of combined CHIRTS temperature and CHIRPS precipitation.  
   
 In either case, you'll also need to input the latitude and longitude coordinates of the area you're interested (can be 
 anywhere across the globe as long as it's not over the ocean), and the year of climate data for which you're interested in 
-emulating yield anomalies (if you're using POWER/CHIRPS data).   
+emulating yield anomalies (if you're using CHIRTS/CHIRPS data).   
   
 The scripts in this repository work as follows:  
   
